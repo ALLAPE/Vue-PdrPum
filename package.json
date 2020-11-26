@@ -5,6 +5,13 @@
   "repository": {
     "url": "https://github.com/ALLAPE/Vue-PdrPum"
   },
+  "keywords": [
+    "reload",
+    "load more",
+    "pdrpum",
+    "下拉刷新",
+    "上拉加载更多"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
