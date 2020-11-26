@@ -1,6 +1,10 @@
 {
   "name": "vue-pdrpum",
   "version": "1.0.0",
+  "description": "Pull down to reload, pull up to load more for Vue",
+  "repository": {
+    "url": "https://github.com/ALLAPE/Vue-PdrPum"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
