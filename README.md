@@ -1,24 +1,4 @@
-# vue-pdrpum
+# vue-pdrpum / Pull down to reload, pull up to load more / 下拉刷新、上拉加载更多
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用方式 / Usage
+see Demo
